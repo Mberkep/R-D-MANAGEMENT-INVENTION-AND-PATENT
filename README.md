@@ -1,1 +1,1 @@
-# R-D-MANAGEMENT-INVENTION-AND-PATENT
+This project, "Smart Gloves for Speech Handicapped," aims to enhance communication for individuals with speech disabilities by translating sign language gestures into text and voice. Using an Arduino Mega, flex sensors, and an IMU, the gloves detect hand gestures and movement. These inputs are processed to display words on a screen and play corresponding sounds through a speaker. By bridging the communication gap, these gloves provide a valuable tool for social integration and independence for speech-impaired individuals.
